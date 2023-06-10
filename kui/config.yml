@@ -1,0 +1,8 @@
+kafka:
+  clusters:
+    - name: kafka1
+      bootstrapServers: kafka1:29092
+    - name: kafka2
+      bootstrapServers: kafka2:29092
+    - name: kafka3
+      bootstrapServers: kafka3:29092
